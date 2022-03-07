@@ -2,7 +2,8 @@
  
 Built With 🛠️
 
-DataBase: created on PostgreSQL
+DataBase: created on PostgreSQL.
+
 FRONTEND: HTML, JS,Boostrap to make a desing Responsive .
 
 BACKEND: to data persistend I worked ORM EntityFrameworkCore on the API, also c#, differents foldes such as Controllers, APIresults, Commands, Models, etc.
