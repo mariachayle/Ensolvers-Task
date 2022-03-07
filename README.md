@@ -3,8 +3,10 @@
 Built With 🛠️
 
 DataBase: created on PostgreSQL
-FRONTEND: HTML, JS,Boostrap to make a desing Responsive 
+FRONTEND: HTML, JS,Boostrap to make a desing Responsive .
+
 BACKEND: to data persistend I worked ORM EntityFrameworkCore on the API, also c#, differents foldes such as Controllers, APIresults, Commands, Models, etc.
+
 1. Open a folder on Visual Studio Code and write on the terminal dotnet new sln and then go to create new proyect, web api, c#, and choose a name.
 2. Install:
 - Npgsql.EntityFrameworkCore.PostgreSQL
